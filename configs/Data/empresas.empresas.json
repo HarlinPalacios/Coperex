@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "67c28ebf6729bbe012227e32"
+  },
+  "name": "Zara",
+  "tipo_empresa": "A.S.",
+  "phone": "21547895",
+  "year_fundation": 55,
+  "nivel_impacto": "Global",
+  "trayectoria": 60,
+  "categoria": "moda",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28ed56729bbe012227e35"
+  },
+  "name": "Model",
+  "tipo_empresa": "A.S.",
+  "phone": "21547895",
+  "year_fundation": 55,
+  "nivel_impacto": "Global",
+  "trayectoria": 60,
+  "categoria": "moda",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28ee06729bbe012227e38"
+  },
+  "name": "Xerox Holding",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 1962,
+  "nivel_impacto": "Global",
+  "trayectoria": 63,
+  "categoria": "retail",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28ee86729bbe012227e3b"
+  },
+  "name": "Walmart",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 1958,
+  "nivel_impacto": "Global",
+  "trayectoria": 67,
+  "categoria": "finanzas",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28eee6729bbe012227e3e"
+  },
+  "name": "Visa",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 2009,
+  "nivel_impacto": "Global",
+  "trayectoria": 16,
+  "categoria": "transporte",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28efc6729bbe012227e41"
+  },
+  "name": "Uber Techologies",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 2003,
+  "nivel_impacto": "Global",
+  "trayectoria": 22,
+  "categoria": "automotriz",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f026729bbe012227e44"
+  },
+  "name": "Tesla",
+  "tipo_empresa": "Ltd.",
+  "phone": "21877895",
+  "year_fundation": 1969,
+  "nivel_impacto": "Global",
+  "trayectoria": 56,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f096729bbe012227e47"
+  },
+  "name": "Samsung",
+  "tipo_empresa": "S. A.",
+  "phone": "21877895",
+  "year_fundation": 1899,
+  "nivel_impacto": "Global",
+  "trayectoria": 126,
+  "categoria": "automotriz",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f106729bbe012227e4a"
+  },
+  "name": "Renault",
+  "tipo_empresa": "Incorporated",
+  "phone": "21877895",
+  "year_fundation": 1985,
+  "nivel_impacto": "Global",
+  "trayectoria": 40,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f176729bbe012227e4d"
+  },
+  "name": "Qualcomm",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 1998,
+  "nivel_impacto": "Global",
+  "trayectoria": 27,
+  "categoria": "finanzas",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f1d6729bbe012227e50"
+  },
+  "name": "PayPal",
+  "tipo_empresa": "Corporation",
+  "phone": "21877895",
+  "year_fundation": 1977,
+  "nivel_impacto": "Global",
+  "trayectoria": 48,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f256729bbe012227e53"
+  },
+  "name": "Oracle",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 1997,
+  "nivel_impacto": "Global",
+  "trayectoria": 28,
+  "categoria": "entretenimiento",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f386729bbe012227e56"
+  },
+  "name": "Netflix",
+  "tipo_empresa": "Inc.",
+  "phone": "21877895",
+  "year_fundation": 1997,
+  "nivel_impacto": "Global",
+  "trayectoria": 28,
+  "categoria": "entretenimiento",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f406729bbe012227e59"
+  },
+  "name": "Microfot",
+  "tipo_empresa": "Corporation",
+  "phone": "21877895",
+  "year_fundation": 1975,
+  "nivel_impacto": "Global",
+  "trayectoria": 50,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f466729bbe012227e5c"
+  },
+  "name": "Lenovo",
+  "tipo_empresa": "Ltd.",
+  "phone": "21547895",
+  "year_fundation": 1984,
+  "nivel_impacto": "Global",
+  "trayectoria": 41,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f4c6729bbe012227e5f"
+  },
+  "name": "Kodak",
+  "tipo_empresa": "Company",
+  "phone": "21547895",
+  "year_fundation": 1888,
+  "nivel_impacto": "Global",
+  "trayectoria": 137,
+  "categoria": "fotografia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f536729bbe012227e62"
+  },
+  "name": "Johnson",
+  "tipo_empresa": "Company",
+  "phone": "21547895",
+  "year_fundation": 1886,
+  "nivel_impacto": "Global",
+  "trayectoria": 139,
+  "categoria": "salud",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f5f6729bbe012227e65"
+  },
+  "name": "Intel",
+  "tipo_empresa": "Corporation",
+  "phone": "21547895",
+  "year_fundation": 1968,
+  "nivel_impacto": "Global",
+  "trayectoria": 57,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f696729bbe012227e68"
+  },
+  "name": "Huawei",
+  "tipo_empresa": "Ltd.",
+  "phone": "21547895",
+  "year_fundation": 1987,
+  "nivel_impacto": "Global",
+  "trayectoria": 38,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f6e6729bbe012227e6b"
+  },
+  "name": "Google",
+  "tipo_empresa": "LLC",
+  "phone": "21547895",
+  "year_fundation": 1998,
+  "nivel_impacto": "Global",
+  "trayectoria": 27,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f7a6729bbe012227e6e"
+  },
+  "name": "Motor",
+  "tipo_empresa": "Company",
+  "phone": "21547895",
+  "year_fundation": 1995,
+  "nivel_impacto": "Global",
+  "trayectoria": 30,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f816729bbe012227e71"
+  },
+  "name": "EBay",
+  "tipo_empresa": "Inc",
+  "phone": "21547895",
+  "year_fundation": 1995,
+  "nivel_impacto": "Global",
+  "trayectoria": 41,
+  "categoria": "tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f866729bbe012227e74"
+  },
+  "name": "Dell",
+  "tipo_empresa": "Inc",
+  "phone": "21547895",
+  "year_fundation": 1984,
+  "nivel_impacto": "Global",
+  "trayectoria": 41,
+  "categoria": "Tecnologia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f8e6729bbe012227e77"
+  },
+  "name": "Coca'Cola",
+  "tipo_empresa": "Company.",
+  "phone": "21547895",
+  "year_fundation": 1892,
+  "nivel_impacto": "Global",
+  "trayectoria": 133,
+  "categoria": "Alimentos y bebidas",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28f996729bbe012227e7a"
+  },
+  "name": "Boeing",
+  "tipo_empresa": "Co.",
+  "phone": "21547895",
+  "year_fundation": 1916,
+  "nivel_impacto": "Global",
+  "trayectoria": 109,
+  "categoria": "Aeroespacial",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "67c28fa56729bbe012227e7d"
+  },
+  "name": "Amazon",
+  "tipo_empresa": "Inc",
+  "phone": "21547895",
+  "year_fundation": 1994,
+  "nivel_impacto": "Global",
+  "trayectoria": 31,
+  "categoria": "tecnologia",
+  "status": true
+}]

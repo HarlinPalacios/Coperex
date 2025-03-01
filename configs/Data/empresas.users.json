@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "67c283cb2905d8632add7fee"
+  },
+  "name": "Harlin",
+  "surname": "Palacios",
+  "username": "hpalacios113",
+  "email": "hpalacios@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$cuAmI0XwFhjTjg6F8ofuqA$4TySy3NIX5tY1yiSh2FtBwF7NXRbHbbgyI6wdum1aEQ",
+  "phone": "21326554",
+  "role": "ADMIN_ROLE"
+}]
